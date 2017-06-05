@@ -1,5 +1,5 @@
 % real term assumed to be in 4th position in quaternion
-classdef u
+classdef utility
     
    properties (Access = public, Constant = true)
       

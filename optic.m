@@ -1,4 +1,4 @@
-classdef o < matlab.System
+classdef optic < matlab.System
     % Optics Object - For all your visual desires
     %
     % Contains equations for designing optics
